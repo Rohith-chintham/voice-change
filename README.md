@@ -1,6 +1,6 @@
-git clone 
+git clone https://github.com/Rohith-chintham/voice-change.git
 
-cd 
+cd voice-change
 
 python -m venv venv
 
